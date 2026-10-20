@@ -12,9 +12,6 @@
   <a href="https://www.linkedin.com/in/enzo-modesto-819a283b0">
     <img src="https://img.shields.io/badge/LinkedIn-Enzo_Modesto-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:enzomodesto.ns@gmail.com">
-    <img src="https://img.shields.io/badge/Email-enzomodesto.ns@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=enzomodestons-droid&style=flat-square&color=181717&label=Profile+views" alt="Profile views"/>
 </p>
 
@@ -45,8 +42,6 @@ Understanding how systems work from the hardware up gives me a broader perspecti
   <img src="https://img.shields.io/badge/Java-E76F00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
@@ -57,7 +52,6 @@ Understanding how systems work from the hardware up gives me a broader perspecti
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=databricks&logoColor=white" alt="SQL"/>
 </p>
 
@@ -70,21 +64,7 @@ Understanding how systems work from the hardware up gives me a broader perspecti
   <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white" alt="Windows"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender"/>
 </p>
-
-**Productivity & business**
-
-<p>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" alt="Microsoft Office"/>
-  <img src="https://img.shields.io/badge/TOTVS_Protheus-1F2A44?style=flat-square" alt="TOTVS Protheus"/>
-</p>
-
-**Infrastructure & support**
-
-`Technical Support` • `Hardware Maintenance` • `Troubleshooting` • `Networks` • `Infrastructure` • `Active Directory` • `File Server` • `Print Server` • `Firewall` • `Industrial Automation`
 
 ---
 
@@ -119,8 +99,8 @@ More projects are being organized and will be published soon.
 ## 🎯 Current focus
 
 - Backend development with **Java & Spring Boot**
-- Modern web development with **TypeScript & React**
-- Desktop systems and database modeling (**SQL Server**)
+- Modern web development with **React**
+- Desktop systems and database modeling
 - Building real products through **Nexos Enterprise**
 - Looking for an **IT internship** to grow in support and systems development
 
@@ -133,9 +113,6 @@ I'm open to opportunities, collaborations and conversations about technology.
 <p>
   <a href="https://www.linkedin.com/in/enzo-modesto-819a283b0">
     <img src="https://img.shields.io/badge/LinkedIn-Enzo_Modesto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:enzomodesto.ns@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
