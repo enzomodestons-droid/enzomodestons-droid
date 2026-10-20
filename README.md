@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Enzo Modesto 👋</h1>
 
 <p align="center">
-  <b>Developer • Co-founder of Nexos Enterprise</b>
+  <b>Developer • Information Technology Student • Co-founder of Nexos Enterprise</b>
 </p>
 
 <p align="center">
@@ -22,6 +22,7 @@
 
 ## 👨‍💻 About me
 
+- 🎓 Information Technology student
 - 🤝 Co-founder of **Nexos Enterprise**, a B2B technology initiative
 - 🌐 Knowledge of operating systems, networks and infrastructure
 - 🛠️ Familiar with technical support, hardware maintenance and troubleshooting
